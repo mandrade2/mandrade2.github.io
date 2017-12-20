@@ -4,5 +4,6 @@ theme: jekyll-theme-minimal
 livereload: true
 github: 
   url: https://github.com/mandrade2
-description: Estudiante de Ingeniería civil en computación en la Pontificia univerdidad católica de Chile.
-motivation: Hacer de la tecnologia una herramienta para mejorar la calidad de vida de las personas es lo que me motiva. La tecnologia para solucionar problemas y hacer mejor la sociedad en que vivimos.Vivimos en una época donde poco queda para la imaginación y problemas tenemos por montones.
+description: que pongo aca.
+# TODO que pongo aca?
+motivation: Hacer de la tecnologia una herramienta para mejorar la calidad de vida de las personas es lo que me motiva. La tecnologia para solucionar problemas y hacer mejor la sociedad en que vivimos. Vivimos en una época donde poco queda para la imaginación y problemas tenemos por montones.
