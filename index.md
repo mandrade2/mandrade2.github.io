@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Acerca de mi
-
 Programador, boxeador aficionado, amigo, pololo, estudiante, tecnico voluntario y más. Esta es mi pagina personal y la idea es presentarme de una manera cómoda y de facil acceso.
 
-## Historia 
+## Acerca de mi 
 
 Estudie en el colegio [The English Institute](https://www.tei.cl/) en Providencia. Me iba bien y jugaba futbol.
 
