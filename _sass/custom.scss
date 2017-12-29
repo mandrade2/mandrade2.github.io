@@ -1,5 +1,8 @@
-$button-color:rgb(231, 156, 17);
-$hover-color:rgb(240, 179, 74);
+$button-color:#0c4e99;
+// $button-color:#0c4e99;
+// $button-color:rgb(231, 17, 17);
+// $button-color:rgb(231, 156, 17);
+$hover-color:#2c6eb9;
 #profile-pic {
     width: 80%;
     height: 80%;
@@ -98,8 +101,19 @@ screen and (max-width: 960px) {
         padding-bottom: 40px;
     }
     #dummybodyid {
+        //REVIEW:  why not working with body?
         padding-top: 0;
         margin-top: 0;
+    }
+    #profile-pic {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding-right: 10%
+    }
+    section {
+        position: static;
+        display: inline-block;
     }
 }
 
@@ -108,6 +122,6 @@ screen and (max-height: 710px) {
     header p {
         text-align: justify;
         overflow-y: scroll;
-        height: 150px;
+        height: 175px;
     }
 }
