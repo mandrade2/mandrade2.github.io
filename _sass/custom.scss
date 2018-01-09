@@ -92,6 +92,34 @@ footer p {
     text-align: center;
 }
 
+.post-list {
+    ul {
+        list-style-type: none;
+    }
+    li {
+        font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+        border-bottom: 1px solid #ccc;
+    }
+    li:last-child {
+        border: none;
+    }
+    li a {
+        text-decoration: none;
+        color: #000;
+        -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+        -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+        -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+        -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+        transition: font-size 0.3s ease, background-color 0.3s ease;
+        display: block;
+        width: 100%;
+    }
+    li a:hover {
+        font-size: 30px;
+        display: block;
+    }
+}
+
 @media print,
 screen and (max-width: 960px) {
     .top-buttons {

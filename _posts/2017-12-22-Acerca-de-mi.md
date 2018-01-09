@@ -1,12 +1,11 @@
 ---
 layout: default
+title:  "Acerca de mi"
+date:   2017-12-22 12:50:01 
 ---
+# {{page.title}}
 
-Hola! En esta pagina podrán encontrar [articulos](posts-index) que he escrito de cosas que me parecen interesantes como tambien información de [contacto](contact) y [un poco sobre mi]({{ site.baseurl }}{% post_url 2017-12-22-Acerca-de-mi %}).
-
-Me interesa utilizar la tecnología como herramienta para resolver problemas de la sociedad. Creo que la gente no se da cuenta del verdadero potencial de la computación. Mejorar la calidad de vida de la gente, resolver problemas de la gente común y lograr que la gente se dedique a lo que mejor sabe hacer; ser humana. 
-
----
+<small>{{page.date}}</small>
 
 Estudie en el colegio [The English Institute](https://www.tei.cl/) en Providencia. Me iba bien y jugaba futbol.
 
@@ -22,8 +21,7 @@ Me gusta avanzar en mis side-projects de programacion cuando tengo tiempo.
 
 Mis side projects:
 + Esta página 
-+ kiwify(en curso)
-+ Pagina web CPU ingeniería
++ kiwify
 <!-- + sincding UC -->
 
 Soy tecnico voluntario de [CPU Ingeniería](https://www.facebook.com/pg/CPUUC/about/?ref=page_internal) proyecto que busca, mediante el voluntariado, reciclar computadores en desuso y habilitarlos para poder donarlos a personas que los necesiten.
