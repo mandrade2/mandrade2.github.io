@@ -39,7 +39,6 @@ $hover-color:#2c6eb9;
     /* Prevent double borders */
 }
 
-
 /* Clear floats (clearfix hack) */
 
 .btn-group:after {
@@ -148,8 +147,7 @@ screen and (max-width: 960px) {
 @media print,
 screen and (max-height: 710px) {
     header p {
-        text-align: justify;
-        overflow-y: scroll;
+        text-align: center;
         height: 175px;
     }
 }

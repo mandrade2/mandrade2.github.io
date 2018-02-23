@@ -4,7 +4,7 @@ layout: default
 
 Hola! En esta pagina podrán encontrar [articulos](posts-index) que he escrito de cosas que me parecen interesantes como tambien información de [contacto](contact) y [un poco sobre mi]({{ site.baseurl }}{% post_url 2017-12-22-Acerca-de-mi %}).
 
-Me interesa utilizar la tecnología como herramienta para resolver problemas de la sociedad. Creo que la gente no se da cuenta del verdadero potencial de la computación. Mejorar la calidad de vida de la gente, resolver problemas de la gente común y lograr que la gente se dedique a lo que mejor sabe hacer; ser humana. 
+Hacer de la tecnologia una herramienta para mejorar la calidad de vida de las personas es lo que me motiva. La tecnologia para solucionar problemas y hacer mejor la sociedad en que vivimos. Vivimos en una época donde poco queda para la imaginación y problemas tenemos por montones.
 
 ---
 
@@ -12,7 +12,7 @@ Estudie en el colegio [The English Institute](https://www.tei.cl/) en Providenci
 
 Hice un intercambio de 6 meses en [Nelson,BC,Canada](https://www.google.com/maps/place/Nelson,+Columbia+Brit%C3%A1nica,+Canad%C3%A1/@49.4954122,-117.3230094,13z/data=!3m1!4b1!4m5!3m4!1s0x537cb41f1c6bb871:0x6d0054861620bcc2!8m2!3d49.4928119!4d-117.2948343). Fue una increible experiencia en un pequeño pueblo al sur de Candá entre el lago Kootenay y las Selkirk mountains.
 
-Entré a estudiar Ingeniería civil pensando en irme a ingeniería electrica. En segundo año hice señales y sistemas y circuitos electricos mientras trabajaba para Agromonitoreo SPA(QEPD), startup de control automatico de riego por goteo. Al entrar a trabajar lo hice pensando en la experiencia y nada más, pero me termine dando cuenta de que programando lo pasaba mucho mejor que con el multimetro. Decidí tomar mi siguiente semestre full computación y si no me gustaba sólo perdia semestre. Me encantó computación y asi fue como llegué a esta gran área.
+Entré a estudiar Ingeniería civil pensando en irme a ingeniería electrica. En segundo año hice señales y sistemas y circuitos electricos mientras trabajaba para Agromonitoreo SPA, startup de control automatico de riego por goteo. Al entrar a trabajar lo hice pensando en la experiencia y nada más, pero me termine dando cuenta de que programando lo pasaba mucho mejor que con el multimetro. Decidí tomar mi siguiente semestre full computación y si no me gustaba sólo perdía un semestre. Me encantó computación y asi fue como llegué a esta gran área.
 
 ## Hobbies
 
