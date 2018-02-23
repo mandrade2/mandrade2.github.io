@@ -2,9 +2,13 @@ title: Matías Andrade Guzmán
 show_downloads: false
 theme: jekyll-theme-minimal
 livereload: true
+url: https://mandrade2.github.io/
 github: 
   url: https://github.com/mandrade2
-description: Pagina personal.
+description: Pagina personal y de contacto. Un poco de mí y etc.
 sass:
     style: compressed
 google_analytics: UA-111755237-1
+plugins:
+  - jekyll-seo-tag
+  - jemoji
